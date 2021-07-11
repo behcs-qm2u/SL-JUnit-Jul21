@@ -72,6 +72,8 @@ public class ParametersExample {
 		return Stream.of("racecar", "radar", "mom", "dad");
 	}
 	
+	
+	// guide: https://junit.org/junit5/docs/snapshot/user-guide/#writing-tests-parameterized-tests-sources-CsvFileSource
 	@ParameterizedTest
 	// @CsvFileSource(resources = "/csvdata.csv")	    // put source in resources folder of the class
 	@CsvFileSource(files = "src/../data/csvdatafile.csv")	    // "files" is used to for file located outside class path
