@@ -32,6 +32,21 @@
     <scope>test</scope>
 </dependency>
   
+
+	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	<dependency>
+	    <groupId>org.seleniumhq.selenium</groupId>
+	    <artifactId>selenium-java</artifactId>
+	    <version>3.141.59</version>
+	</dependency>  
+
+<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-platform-runner -->
+<dependency>
+    <groupId>org.junit.platform</groupId>
+    <artifactId>junit-platform-runner</artifactId>
+    <version>1.7.0</version>
+</dependency>
+
   
   
   

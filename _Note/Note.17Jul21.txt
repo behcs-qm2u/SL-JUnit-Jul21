@@ -1,0 +1,17 @@
+
+Topic: 17Jul21
+
+1. Parameter Provider
+
+
+2. Multiple JUnit, filter the tests we want to run
+
+ - platform runner
+ - package runner
+ - using tags
+ 
+ 
+ 3. Code coverage
+ 
+     - Eclipse MarketPlace
+       - EclEmma
